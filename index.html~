@@ -8,19 +8,8 @@
         <li>PC Video Games</li>
         <li>Radio Controlled Models
           <ul>
-            <li>RC Ground Vehicles
-              <ul>
-                <li>Cars</li>
-                <li>Trucks</li>
-              </ul>
-            </li>
-            <li>RC Air Vehicles
-              <ul>
-                <li>Helicopters</li>
-                <li>Planes</li>
-                <li>Multi-Rotors</li>
-              </ul>
-            </li>
+            <li>RC Ground Vehicles</li>
+            <li>RC Air Vehicles</li>
             <li>RC Water Vehicles</li>
           </ul>
         </li>
