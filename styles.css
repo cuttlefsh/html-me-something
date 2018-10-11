@@ -1,0 +1,71 @@
+body {
+	width: 100%;
+	max-width: 1024px;
+	margin: 1 auto;
+	background-color: rgb(156, 48, 48);
+	font-size: 62.5%;
+}
+
+header,
+main,
+footer {
+	background-color: rgb(27, 202, 21);
+	font-size: 1.6em;
+}
+
+header {
+	padding: 1.875em 0;
+}
+
+header h1 {
+	text-align: center;
+}
+
+h1, h2, h3 {
+	margin: 1;
+}
+
+h1 {
+	font-size: 2.5em;
+}
+
+main h4 {
+	padding: 0.625em 0 0.625em 0.625em;
+}
+
+p {
+	padding: 1.25em;
+}
+
+footer {
+	text-align: center;
+	padding: 3em;
+}
+
+footer p {
+	display: inline-block;
+}
+
+img {
+	width: 100%;
+	max-width: 100%;
+}
+
+@media screen and (max-width: 680px) {
+	nav ul li {
+		margin: 1em 0;
+		display: block;
+		font-size: 1em;
+	}
+	body {
+		font-size: 50%;
+	}
+}
+
+.italics {
+	font-style: italic;
+}
+
+#hobbies {
+	background-color: green;
+}
